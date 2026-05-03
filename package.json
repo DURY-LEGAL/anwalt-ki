@@ -1,0 +1,25 @@
+{
+  "name": "anwalt-ki",
+  "version": "0.1.0",
+  "description": "Anwalt KI - KI-Tools fuer Rechtsanwaelte und Kanzleien. Powered by DURY LEGAL.",
+  "keywords": [
+    "anwalt",
+    "ki",
+    "ai",
+    "rechtsanwalt",
+    "kanzlei",
+    "legal-tech",
+    "dury-legal"
+  ],
+  "author": "DURY LEGAL Rechtsanwaelte <info@dury.de> (https://www.dury.de)",
+  "license": "MIT",
+  "homepage": "https://www.dury.de",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DURY-LEGAL/anwalt-ki.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Tests coming soon'"
+  }
+}
